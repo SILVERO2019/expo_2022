@@ -1,0 +1,6 @@
+[book]
+authors = ["Viorel Surdoiu"]
+language = "ro"
+multilingual = false
+src = "src"
+title = "Expo 2022"
